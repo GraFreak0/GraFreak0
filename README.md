@@ -1,3 +1,9 @@
+![MasterHead](https://github.com/GraFreak0/README.md/blob/main/Cover%20page.gif)
+
+<h1 align="center">Hi 👋, I'm Johnson Isaiah</h1>
+<h3 align="center">I'm a Data Engineer and Software Developer from Nigeria</h3>
+
+
 ### Hi there 👋
 
 <!--
