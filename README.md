@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/GraFreak0/README.md/blob/main/Cover%20page.gif)
 
 <h1 align="center">Hi there 👋, I'm Isaiah Johnson </h1>
-<h3 align="center">I'm a Data Engineer and Software Developer from Nigeria</h3>
+<h3 align="center">I'm a Microsoft Certified Data Engineer and Software Developer from Nigeria</h3>
 
 - 🔭 I’m currently working on Face Changer software using Python
 - 🌱 I’m currently learning JavaScript, Databricks for Data Engineering/Science
