@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Isaiah Johnson </h1>
 <h3 align="center">I'm a Microsoft Certified Data Engineer and Software Developer from Nigeria</h3>
 
-- 🔭 I’m currently working on Face Changer software using Python
 - 🌱 I’m currently learning JavaScript, Databricks for Data Engineering/Science
 - 👯 I’m looking to collaborate on Python Development projects
 - 🤔 I’m looking for help with Machine Learning utilizing the Azure Data Lake Storage Gen2 and AWS
