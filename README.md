@@ -20,6 +20,8 @@ I'm a **Data Engineer** with over **four years of experience**, primarily in **f
 - **Documentation:** Confluence, Notion
 
 #### **Certifications:**  
+- GitHub: **GitHub Foundations**
+- Astronomer: **Apache Airflow 2 Fundamentals Certificate**
 - Microsoft Certified: **Azure Data Engineer Associate**  
 - Microsoft Certified: **Azure AI Fundamentals**  
 
