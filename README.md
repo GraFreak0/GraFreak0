@@ -10,7 +10,11 @@
 - 😄 Pronouns: He/Him/His
 
 # 💫 **About Me:**
-I'm a **Data Engineer** with over **four years of experience**, primarily in **financial services**, specializing in **data integration, processing, and analytics**. I have a strong background in **ETL development, data lakehousing, data warehousing, and big data processing**, working with both **on-prem and cloud-based platforms**. I continuously explore new tools and technologies to stay ahead in data engineering and cloud computing. My goal is to help organizations transform raw data into valuable business insights by building robust, scalable, and efficient data infrastructure.
+I'm a **Data Engineer** with over **four years of experience**, primarily in **financial services**, specializing in **data integration, processing, and analytics**. I have a strong background in **ETL development, data lakehousing, data warehousing, and big data processing**, working with both **on-prem and cloud-based platforms**.
+
+While my core focus is on data engineering, I also have solid experience in **software and backend development using Python**. I've built multiple **automation tools** to streamline daily operations — from triggering data checks to scheduling report generation and distribution across email, SharePoint, and servers. In addition, I’ve developed **backend systems for web applications** using **Python Django**, often integrating them with REST APIs and databases.
+
+I'm passionate about building **robust, scalable, and efficient data infrastructure** and continuously explore new tools and technologies to stay ahead in data engineering, cloud computing, and automation. My goal is to help organizations transform raw data into valuable business insights and operational efficiency.
 
 #### **What I Work With:**  
 - **Databases & ETL:** Oracle, Microsoft SQL Server, SSIS, Azure SQL, PostgreSQL, Synapse Analytics, MongoDB, MySQL, Databricks, Data Factory
