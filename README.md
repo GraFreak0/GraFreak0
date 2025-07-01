@@ -10,26 +10,29 @@
 - 😄 Pronouns: He/Him/His
 
 # 💫 **About Me:**
-I'm a **Data Engineer** with over **four years of experience**, primarily in **financial services**, specializing in **data integration, processing, and analytics**. I have a strong background in **ETL development, data warehousing, and big data processing**, working with both **on-prem and cloud-based platforms**. I continuously explore new tools and technologies to stay ahead in data engineering and cloud computing. My goal is to help organizations transform raw data into valuable business insights by building robust, scalable, and efficient data infrastructure.
+I'm a **Data Engineer** with over **four years of experience**, primarily in **financial services**, specializing in **data integration, processing, and analytics**. I have a strong background in **ETL development, data lakehousing, data warehousing, and big data processing**, working with both **on-prem and cloud-based platforms**. I continuously explore new tools and technologies to stay ahead in data engineering and cloud computing. My goal is to help organizations transform raw data into valuable business insights by building robust, scalable, and efficient data infrastructure.
 
 #### **What I Work With:**  
-- **Databases & ETL:** Oracle, Microsoft SQL Server, SSIS, Azure SQL, Synapse Analytics, MongoDB. MySQL, Databricks, Data Factory
-- **Programming & Data Processing:** SQL (T-SQL, Oracle SQL), Python (Pandas, PySpark), Spark SQL  
+- **Databases & ETL:** Oracle, Microsoft SQL Server, SSIS, Azure SQL, PostgreSQL, Synapse Analytics, MongoDB, MySQL, Databricks, Data Factory
+- **Programming & Data Processing:** SQL (T-SQL, Oracle SQL), Python (Pandas, PySpark, Django Frameworks), Spark SQL, Rest APIs 
 - **BI & Visualization:** Power BI (with Microsoft Fabric), Excel (Visual Basic for Applications for automating BI)
 - **Version Control:** Git, GitHub
 - **Documentation:** Confluence, Notion
+- **Containerization:** WSL, Docker, Docker Desktop
 
 #### **Certifications:**  
+- PeopleCert: **ITIL® v4 Foundations**
+- Astronomer: **Apache Airflow 3 Fundamentals**
 - GitHub: **GitHub Foundations**
-- Astronomer: **Apache Airflow 2 Fundamentals Certificate**
+- Astronomer: **Apache Airflow 2 Fundamentals**
 - Microsoft Certified: **Azure Data Engineer Associate**  
 - Microsoft Certified: **Azure AI Fundamentals**  
 
 #### **What I'm Looking to Learn:**  
-I’m eager to expand into **Apache Airflow (workflow automation), dbt (SQL-based transformations), and Tableau (advanced visualization)** to enhance my ability to build **scalable and automated data solutions**.  
+I’m eager to expand into **Frontend Development (using React, vue.js etc) and,Tableau (advanced visualization)** to enhance my ability to build **scalable and automated data solutions**.  
 
 #### **Availability & Interests:**  
-I'm open to **full-time roles, consulting, or freelance projects** focused on **data engineering, analytics, or AI-driven solutions**. I enjoy working in **cloud-based, data-intensive environments**, especially those that require **optimizing ETL pipelines, managing data lakes/warehouses, and driving business insights**.  
+I'm open to **full-time roles, consulting, or freelance projects** focused on **data engineering, analytics, or AI-driven solutions**. I enjoy working in **cloud-based, data-intensive environments**, especially those that require **optimizing ETL pipelines, managing databases, data lakes, lakehouses, warehouses, and driving business insights**.  
 
 ## 🌐 **Socials:**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grafreak0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grafreak0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grafreak0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/grafreak0) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/grafreak0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/grafreak00) 
