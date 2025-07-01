@@ -16,7 +16,7 @@ While my core focus is on data engineering, I also have solid experience in **so
 
 I'm passionate about building **robust, scalable, and efficient data infrastructure** and continuously explore new tools and technologies to stay ahead in data engineering, cloud computing, and automation. My goal is to help organizations transform raw data into valuable business insights and operational efficiency.
 
-#### **What I Work With:**  
+#### 💼 **What I Work With:**  
 - **Databases & ETL:** Oracle, Microsoft SQL Server, SSIS, Azure SQL, PostgreSQL, Synapse Analytics, MongoDB, MySQL, Databricks, Data Factory
 - **Programming & Data Processing:** SQL (T-SQL, Oracle SQL), Python (Pandas, PySpark, Django Frameworks), Spark SQL, Rest APIs 
 - **BI & Visualization:** Power BI (with Microsoft Fabric), Excel (Visual Basic for Applications for automating BI)
@@ -24,7 +24,7 @@ I'm passionate about building **robust, scalable, and efficient data infrastruct
 - **Documentation:** Confluence, Notion
 - **Containerization:** WSL, Docker, Docker Desktop
 
-#### **Certifications:**  
+#### 📋 **Certifications:**  
 - PeopleCert: **ITIL® v4 Foundations**
 - Astronomer: **Apache Airflow 3 Fundamentals**
 - GitHub: **GitHub Foundations**
@@ -32,11 +32,11 @@ I'm passionate about building **robust, scalable, and efficient data infrastruct
 - Microsoft Certified: **Azure Data Engineer Associate**  
 - Microsoft Certified: **Azure AI Fundamentals**  
 
-#### **What I'm Looking to Learn:**  
+#### 🔰 **What I'm Looking to Learn:**  
 I’m eager to expand into **Frontend Development (using React, vue.js etc) and,Tableau (advanced visualization)** to enhance my ability to build **scalable and automated data solutions**.  
 
-#### **Availability & Interests:**  
-I'm open to **full-time roles, consulting, or freelance projects** focused on **data engineering, analytics, or AI-driven solutions**. I enjoy working in **cloud-based, data-intensive environments**, especially those that require **optimizing ETL pipelines, managing databases, data lakes, lakehouses, warehouses, and driving business insights**.  
+#### 💼 **Availability & Interests:**
+I'm open to **full-time roles, consulting, or freelance projects** in areas such as **data engineering**, **database administration**, **software/backend development**, **cloud infrastructure**, and **DevOps**. I enjoy working in **cloud-based, data-intensive environments** where I can design and optimize **ETL pipelines**, manage and administer **databases, data lakes, lakehouses, and data warehouses**, and support **scalable backend systems**. I'm especially passionate about building solutions that improve performance, enable automation, and drive actionable **business insights** through data and technology.
 
 ## 🌐 **Socials:**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grafreak0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grafreak0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grafreak0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/grafreak0) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/grafreak0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/grafreak00) 
